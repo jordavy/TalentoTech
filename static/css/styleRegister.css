@@ -1,0 +1,17 @@
+/* -- fondo --  */
+body{
+    background-color: aqua;
+}
+/* -- estilo de botones --  */
+button{
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+form{
+    text-align: center;
+}

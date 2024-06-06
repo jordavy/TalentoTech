@@ -1,0 +1,8 @@
+/* -- tamaño img --  */
+img {
+   height: 500px;
+}
+/* -- Centra el contenido de --  */
+h1{
+    text-align:center; 
+}
